@@ -1,7 +1,7 @@
 ### Hello! 👋 I'm Alexander
 
 - 🌱 Passed the profession of a frontend developer on [Hexlet](https://ru.hexlet.io/u/alex-ismailov)
-- 🔭 I’m looking for job
+- 🔭 
 
 ## ✉️ Find me on:
 
